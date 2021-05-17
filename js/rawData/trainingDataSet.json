@@ -1,0 +1,54 @@
+[
+  {
+    "msg": "happy good to see you",
+    "feelings": "happy"
+  },
+  {
+    "msg": "pretty handsome nice good",
+    "feelings": "happy"
+  },
+  {
+    "msg": "good morning greetings hi hello",
+    "feelings": "happy"
+  },
+  {
+    "msg": "hola bro nice to meet you",
+    "feelings": "happy"
+  },
+  {
+    "msg": "welcome I am happy now",
+    "feelings": "happy"
+  },
+  {
+    "msg": "Hello bro hows everything",
+    "feelings": "happy"
+  },
+  {
+    "msg": "sad unhappy now",
+    "feelings": "sad"
+  },
+  {
+    "msg": "sadden depressed unhappy",
+    "feelings": "sad"
+  },
+  {
+    "msg": "I am depressed now",
+    "feelings": "sad"
+  },
+  {
+    "msg": "I am sad",
+    "feelings": "sad"
+  },
+  {
+    "msg": "not things went wrong",
+    "feelings": "sad"
+  },
+  {
+    "msg": "I am not happy",
+    "feelings": "sad"
+  },
+  {
+    "msg": "low I cant think don't know why",
+    "feelings": "sad"
+  }
+]
