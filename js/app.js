@@ -27,7 +27,11 @@ document.getElementById("button-addon2").addEventListener("click", function () {
             // Training Model
             console.log("Training data...")
             network.train(trainingData, { iterations: 50, log: true });
+
+            document.getElementById("NetworkDiag"). innerHTML = brain.utilities.toSVG(network);
+
             const Output = network.run(InputString);  // Build model
+            console.clear();
 
 
 

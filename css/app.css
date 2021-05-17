@@ -14,3 +14,11 @@ body{
 .card{
     width: 100%;
 }
+
+#NetworkDiag{
+    width: 100%;
+}
+
+#NetworkDiag svg{
+    width: 100%;
+}
