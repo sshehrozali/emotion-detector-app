@@ -22,3 +22,7 @@ body{
 #NetworkDiag svg{
     width: 100%;
 }
+
+#loadingSpinner{
+    display: none;
+}

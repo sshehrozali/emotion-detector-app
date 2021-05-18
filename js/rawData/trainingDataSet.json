@@ -50,5 +50,13 @@
   {
     "msg": "low I cant think don't know why",
     "feelings": "sad"
+  },
+  {
+    "msg": "I am feeling happy",
+    "feelings": "happy"
+  },
+  {
+    "msg": "sad now",
+    "feelings": "sad"
   }
 ]
